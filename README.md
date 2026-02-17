@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Aditya 👋</h2>
+<h1 align="center">Hi, I'm Aditya 👋</h1>
 
 <p align="center">
 Data Science Student • AI/ML Builder • Problem Solver
