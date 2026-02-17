@@ -1,10 +1,22 @@
-# Hi, I'm Aditya 👋
+<h2 align="center">Hi, I'm Aditya 👋</h2>
 
-Data Science student focused on AI, ML, and real-world problem solving.  
-Building projects in Python, SQL, and machine learning with an interest in NLP and intelligent systems.
+<p align="center">
+Data Science Student • AI/ML Builder • Problem Solver
+</p>
 
-**Skills:** Python • SQL • PostgreSQL • Machine Learning • Data Analysis  
-**Focus:** AI projects, applied ML, and learning by building 
+---
 
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/aditya-jod/)
+I work on real-world data problems using machine learning, Python, and SQL.  
+Focused on building intelligent systems, not just models — from data pipelines to deployment.
+
+**Core Skills**
+- Python, SQL, PostgreSQL  
+- Machine Learning & NLP  
+- Data Analysis & Model Development  
+
+**Current Direction**
+Building applied AI projects and strengthening foundations in data science & intelligent systems.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-jod/">LinkedIn</a>
+</p>
