@@ -17,6 +17,8 @@ Focused on building intelligent systems, not just models — from data pipelines
 **Current Direction**
 Building applied AI projects and strengthening foundations in data science & intelligent systems.
 
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-jod/">LinkedIn</a>
 </p>
