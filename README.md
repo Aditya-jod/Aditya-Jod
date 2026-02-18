@@ -24,6 +24,5 @@ Applied AI projects, real-world problem solving, and strengthening ML foundation
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-jod/">LinkedIn</a> •
-  <a href="https://github.com/">Projects</a>
+  <a href="https://www.linkedin.com/in/aditya-jod/">LinkedIn</a>
 </p>
