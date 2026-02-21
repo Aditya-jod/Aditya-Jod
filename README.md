@@ -4,10 +4,10 @@
 **AI Engineer | Data Science Enthusiast | Machine Learning Practitioner**
 
 Building intelligent systems: **Data ➔ Models ➔ Real-world Impact**
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jod/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-link-here) -->
+</div>
 
 ---
 
