@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jod/)
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-jod&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=aditya-jod&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS) -->
 
 </div>
 
