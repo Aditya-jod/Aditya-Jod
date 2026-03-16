@@ -22,7 +22,7 @@
 I'm a final-year CS student on a mission to bridge the gap between academic research and production-ready AI. I don't just "train models" — I build end-to-end systems that turn messy datasets into actionable intelligence.
 
 - 🔭 **Current Focus:** Optimizing NLP pipelines & strengthening ML foundations
-- 🌱 **Learning:** Scalable Data Engineering · LLM Fine-tuning · AI Systems
+- 🌱 **Learning:** Scalable Data Engineering · LLM Fine-tuning · AI Systems · RAG
 
 <br clear="right"/>
 
