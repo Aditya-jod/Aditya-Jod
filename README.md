@@ -28,6 +28,7 @@ I'm a final-year CS student on a mission to bridge the gap between academic rese
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -40,6 +41,7 @@ I'm a final-year CS student on a mission to bridge the gap between academic rese
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-jod&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
+-->
 
 ---
 
